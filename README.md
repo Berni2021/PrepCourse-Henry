@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba de modulo 2 
+Berni
+este es un proyecto de prueba para clonarlo desde github
